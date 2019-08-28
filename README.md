@@ -1,5 +1,7 @@
 # TBTYT
 
+**MERGE YOUR ERRORS**
+
 Team
 Better
 Than
