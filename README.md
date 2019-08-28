@@ -1,6 +1,6 @@
 # TBTYT
 
-**MERGE YOUR ERRORS**
+**SCREENSHOT YOUR ERRORS**
 
 Team
 Better
